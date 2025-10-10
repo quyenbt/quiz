@@ -1,0 +1,284 @@
+{
+  "quizzes": [
+    {
+      "id": 1,
+      "question": "What does the word 'abundant' mean?",
+      "question_vn": "Từ 'abundant' có nghĩa là gì?",
+      "options": [
+        "Scarce, limited",
+        "Plentiful, more than enough",
+        "Expensive, costly",
+        "Difficult, challenging"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Abundant' means existing in large quantities; plentiful.",
+      "explanation_vn": "'Abundant' có nghĩa là có với số lượng lớn; dồi dào, phong phú."
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct meaning of 'meticulous':",
+      "question_vn": "Chọn nghĩa đúng của từ 'meticulous':",
+      "options": [
+        "Careless and messy",
+        "Very careful and precise",
+        "Quick and efficient",
+        "Lazy and slow"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Meticulous' means showing great attention to detail; very careful and precise.",
+      "explanation_vn": "'Meticulous' có nghĩa là tỉ mỉ, cẩn thận đến từng chi tiết nhỏ."
+    },
+    {
+      "id": 3,
+      "question": "The word 'eloquent' is best defined as:",
+      "question_vn": "Từ 'eloquent' được định nghĩa tốt nhất là:",
+      "options": [
+        "Unable to speak clearly",
+        "Speaking or writing fluently and persuasively",
+        "Speaking too much",
+        "Writing poorly"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Eloquent' means fluent or persuasive in speaking or writing.",
+      "explanation_vn": "'Eloquent' có nghĩa là hùng biện, nói năng hay viết lách trôi chảy và thuyết phục."
+    },
+    {
+      "id": 4,
+      "question": "What does 'ambiguous' mean?",
+      "question_vn": "Từ 'ambiguous' có nghĩa là gì?",
+      "options": [
+        "Very clear and obvious",
+        "Open to more than one interpretation; unclear",
+        "Completely wrong",
+        "Perfectly accurate"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Ambiguous' means having more than one possible meaning; not clear.",
+      "explanation_vn": "'Ambiguous' có nghĩa là mơ hồ, không rõ ràng, có thể hiểu theo nhiều cách."
+    },
+    {
+      "id": 5,
+      "question": "Select the meaning of 'resilient':",
+      "question_vn": "Chọn nghĩa của từ 'resilient':",
+      "options": [
+        "Weak and fragile",
+        "Able to recover quickly from difficulties",
+        "Permanently damaged",
+        "Unable to change"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Resilient' means able to withstand or recover quickly from difficult conditions.",
+      "explanation_vn": "'Resilient' có nghĩa là kiên cường, có khả năng phục hồi nhanh sau khó khăn."
+    },
+    {
+      "id": 6,
+      "question": "'Diligent' means:",
+      "question_vn": "'Diligent' có nghĩa là:",
+      "options": [
+        "Lazy and unmotivated",
+        "Working carefully and steadily",
+        "Working quickly without care",
+        "Avoiding work"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Diligent' means showing care and effort in one's work or duties.",
+      "explanation_vn": "'Diligent' có nghĩa là siêng năng, chăm chỉ, cẩn thận trong công việc."
+    },
+    {
+      "id": 7,
+      "question": "What is the meaning of 'vast'?",
+      "question_vn": "Nghĩa của từ 'vast' là gì?",
+      "options": [
+        "Very small",
+        "Of very great extent or quantity; immense",
+        "Medium-sized",
+        "Narrow and limited"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Vast' means of very great size, amount, or extent.",
+      "explanation_vn": "'Vast' có nghĩa là rộng lớn, bao la, khổng lồ về kích thước hoặc số lượng."
+    },
+    {
+      "id": 8,
+      "question": "'Enhance' is best defined as:",
+      "question_vn": "'Enhance' được định nghĩa tốt nhất là:",
+      "options": [
+        "To make worse",
+        "To improve or increase the quality",
+        "To remove completely",
+        "To keep the same"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Enhance' means to intensify, increase, or further improve the quality, value, or extent of something.",
+      "explanation_vn": "'Enhance' có nghĩa là nâng cao, cải thiện chất lượng, giá trị của cái gì đó."
+    },
+    {
+      "id": 9,
+      "question": "The word 'crucial' means:",
+      "question_vn": "Từ 'crucial' có nghĩa là:",
+      "options": [
+        "Unimportant and trivial",
+        "Decisive or critical; extremely important",
+        "Somewhat useful",
+        "Completely unnecessary"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Crucial' means of great importance, especially in the success or failure of something.",
+      "explanation_vn": "'Crucial' có nghĩa là rất quan trọng, quyết định, thiết yếu cho sự thành công."
+    },
+    {
+      "id": 10,
+      "question": "'Innovative' refers to:",
+      "question_vn": "'Innovative' ám chỉ:",
+      "options": [
+        "Old-fashioned and traditional",
+        "Featuring new methods; original and creative",
+        "Copying others exactly",
+        "Refusing to change"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Innovative' means featuring new methods, ideas, or products; original and creative in thinking.",
+      "explanation_vn": "'Innovative' có nghĩa là đổi mới, sáng tạo, mang tính cách tân với ý tưởng mới."
+    },
+    {
+      "id": 11,
+      "question": "What does 'compromise' mean?",
+      "question_vn": "Từ 'compromise' có nghĩa là gì?",
+      "options": [
+        "To refuse all negotiations",
+        "An agreement where each side gives up something",
+        "To win completely",
+        "To ignore the problem"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Compromise' means an agreement where each party makes concessions.",
+      "explanation_vn": "'Compromise' có nghĩa là thỏa hiệp, nhượng bộ để đạt được thỏa thuận giữa các bên."
+    },
+    {
+      "id": 12,
+      "question": "'Persuade' means to:",
+      "question_vn": "'Persuade' có nghĩa là:",
+      "options": [
+        "Force someone to do something",
+        "Cause someone to believe or do something through reasoning",
+        "Ignore someone's opinion",
+        "Give up trying"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Persuade' means to convince someone to do or believe something through reasoning or argument.",
+      "explanation_vn": "'Persuade' có nghĩa là thuyết phục ai đó tin hoặc làm điều gì đó bằng lý lẽ."
+    },
+    {
+      "id": 13,
+      "question": "The meaning of 'analyze' is:",
+      "question_vn": "Nghĩa của từ 'analyze' là:",
+      "options": [
+        "To ignore completely",
+        "To examine in detail to understand or explain",
+        "To guess randomly",
+        "To memorize without understanding"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Analyze' means to examine something methodically and in detail.",
+      "explanation_vn": "'Analyze' có nghĩa là phân tích, xem xét chi tiết để hiểu rõ về cái gì đó."
+    },
+    {
+      "id": 14,
+      "question": "'Substantial' is best defined as:",
+      "question_vn": "'Substantial' được định nghĩa tốt nhất là:",
+      "options": [
+        "Very small and insignificant",
+        "Of considerable importance, size, or worth",
+        "Completely absent",
+        "Barely noticeable"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Substantial' means of considerable importance, size, value, or degree.",
+      "explanation_vn": "'Substantial' có nghĩa là đáng kể, quan trọng về quy mô, giá trị hoặc mức độ."
+    },
+    {
+      "id": 15,
+      "question": "What does 'emerge' mean?",
+      "question_vn": "Từ 'emerge' có nghĩa là gì?",
+      "options": [
+        "To disappear completely",
+        "To become visible or known; to come out",
+        "To stay hidden forever",
+        "To go inside"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Emerge' means to come forth into view or notice; to become apparent.",
+      "explanation_vn": "'Emerge' có nghĩa là xuất hiện, nổi lên, trở nên rõ ràng hoặc được biết đến."
+    },
+    {
+      "id": 16,
+      "question": "'Implement' means:",
+      "question_vn": "'Implement' có nghĩa là:",
+      "options": [
+        "To cancel a plan",
+        "To put a plan or decision into effect",
+        "To think about doing something",
+        "To delay indefinitely"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Implement' means to put a decision, plan, or agreement into effect.",
+      "explanation_vn": "'Implement' có nghĩa là thực hiện, thi hành một kế hoạch hoặc quyết định."
+    },
+    {
+      "id": 17,
+      "question": "The word 'diverse' means:",
+      "question_vn": "Từ 'diverse' có nghĩa là:",
+      "options": [
+        "All the same",
+        "Showing a great deal of variety; very different",
+        "Uniform and identical",
+        "Boring and repetitive"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Diverse' means showing a great deal of variety; different from each other.",
+      "explanation_vn": "'Diverse' có nghĩa là đa dạng, khác nhau, có nhiều loại khác nhau."
+    },
+    {
+      "id": 18,
+      "question": "'Coherent' is best described as:",
+      "question_vn": "'Coherent' được mô tả tốt nhất là:",
+      "options": [
+        "Confusing and unclear",
+        "Logical and consistent; easy to understand",
+        "Contradictory",
+        "Meaningless"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Coherent' means logical, consistent, and easy to understand.",
+      "explanation_vn": "'Coherent' có nghĩa là mạch lạc, logic, dễ hiểu và nhất quán."
+    },
+    {
+      "id": 19,
+      "question": "What does 'contemplate' mean?",
+      "question_vn": "Từ 'contemplate' có nghĩa là gì?",
+      "options": [
+        "To act without thinking",
+        "To think about carefully; to consider thoughtfully",
+        "To forget immediately",
+        "To reject without consideration"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Contemplate' means to think about something carefully and at length.",
+      "explanation_vn": "'Contemplate' có nghĩa là suy ngẫm, cân nhắc kỹ lưỡng về điều gì đó."
+    },
+    {
+      "id": 20,
+      "question": "'Sustain' means:",
+      "question_vn": "'Sustain' có nghĩa là:",
+      "options": [
+        "To stop or end something",
+        "To maintain or support over time",
+        "To destroy completely",
+        "To ignore and abandon"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Sustain' means to cause to continue or keep in existence; to maintain.",
+      "explanation_vn": "'Sustain' có nghĩa là duy trì, bảo trì, giữ cho cái gì tồn tại liên tục."
+    }
+  ]
+}
