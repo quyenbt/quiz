@@ -1,0 +1,62 @@
+{
+  "quiz": [
+    {
+      "id": 1,
+      "question": "The opposite of 'happy' is __________.",
+      "correct_answer": "sad",
+      "accepted_answers": [
+        "sad",
+        "unhappy",
+        "miserable",
+        "down"
+      ],
+      "score": 1
+    },
+    {
+      "id": 2,
+      "question": "A 'doctor' works in a __________.",
+      "correct_answer": "hospital",
+      "accepted_answers": [
+        "hospital",
+        "clinic",
+        "medical center",
+        "doctor's office"
+      ],
+      "score": 1
+    },
+    {
+      "id": 3,
+      "question": "'Sun' is a __________ in the sky that provides light and heat.",
+      "correct_answer": "star",
+      "accepted_answers": [
+        "star",
+        "sun",
+        "celestial body"
+      ],
+      "score": 1
+    },
+    {
+      "id": 4,
+      "question": "The opposite of 'big' is __________.",
+      "correct_answer": "small",
+      "accepted_answers": [
+        "small",
+        "tiny",
+        "little",
+        "petite"
+      ],
+      "score": 1
+    },
+    {
+      "id": 5,
+      "question": "'Elephant' is a type of __________ that is very large and has long ears.",
+      "correct_answer": "animal",
+      "accepted_answers": [
+        "animal",
+        "mammal",
+        "creature"
+      ],
+      "score": 1
+    }
+  ]
+}
