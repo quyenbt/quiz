@@ -2,283 +2,171 @@
   "quizzes": [
     {
       "id": 1,
-      "question": "What does the word 'abundant' mean?",
-      "question_vn": "Từ 'abundant' có nghĩa là gì?",
+      "question": "What does the word 'beehive' mean?",
+      "question_vn": "Từ 'beehive' có nghĩa là gì?",
       "options": [
-        "Scarce, limited",
-        "Plentiful, more than enough",
-        "Expensive, costly",
-        "Difficult, challenging"
+        "A place where bees live",
+        "A type of flower",
+        "A tool for honey collection",
+        "A small village"
       ],
-      "correct_answer": 1,
-      "explanation": "'Abundant' means existing in large quantities; plentiful.",
-      "explanation_vn": "'Abundant' có nghĩa là có với số lượng lớn; dồi dào, phong phú."
+      "correct_answer": 0,
+      "explanation": "'Beehive' refers to the structure where bees live and store honey.",
+      "explanation_vn": "'Beehive' là cấu trúc mà ong sống và lưu trữ mật ong."
     },
     {
       "id": 2,
-      "question": "Choose the correct meaning of 'meticulous':",
-      "question_vn": "Chọn nghĩa đúng của từ 'meticulous':",
+      "question": "What is the synonym of 'brave'?",
+      "question_vn": "Từ nào có nghĩa tương tự 'brave'?",
       "options": [
-        "Careless and messy",
-        "Very careful and precise",
-        "Quick and efficient",
-        "Lazy and slow"
+        "Cowardly",
+        "Courageous",
+        "Friendly",
+        "Timid"
       ],
       "correct_answer": 1,
-      "explanation": "'Meticulous' means showing great attention to detail; very careful and precise.",
-      "explanation_vn": "'Meticulous' có nghĩa là tỉ mỉ, cẩn thận đến từng chi tiết nhỏ."
+      "explanation": "'Courageous' is a synonym of 'brave'.",
+      "explanation_vn": "'Courageous' có nghĩa là dũng cảm, là từ đồng nghĩa với 'brave'."
     },
     {
       "id": 3,
-      "question": "The word 'eloquent' is best defined as:",
-      "question_vn": "Từ 'eloquent' được định nghĩa tốt nhất là:",
+      "question": "What is the meaning of the word 'buffalo-drawn cart'?",
+      "question_vn": "Từ 'buffalo-drawn cart' có nghĩa là gì?",
       "options": [
-        "Unable to speak clearly",
-        "Speaking or writing fluently and persuasively",
-        "Speaking too much",
-        "Writing poorly"
+        "A cart pulled by a donkey",
+        "A cart pulled by a buffalo",
+        "A type of vehicle",
+        "A small handcart"
       ],
       "correct_answer": 1,
-      "explanation": "'Eloquent' means fluent or persuasive in speaking or writing.",
-      "explanation_vn": "'Eloquent' có nghĩa là hùng biện, nói năng hay viết lách trôi chảy và thuyết phục."
+      "explanation": "'Buffalo-drawn cart' refers to a cart that is pulled by a buffalo, commonly used in some rural areas.",
+      "explanation_vn": "'Buffalo-drawn cart' là chiếc xe được kéo bởi một con trâu, thường được sử dụng ở một số khu vực nông thôn."
     },
     {
       "id": 4,
-      "question": "What does 'ambiguous' mean?",
-      "question_vn": "Từ 'ambiguous' có nghĩa là gì?",
+      "question": "What does the word 'cattle' refer to?",
+      "question_vn": "Từ 'cattle' có nghĩa là gì?",
       "options": [
-        "Very clear and obvious",
-        "Open to more than one interpretation; unclear",
-        "Completely wrong",
-        "Perfectly accurate"
+        "Sheep and goats",
+        "Large domesticated animals, especially cows",
+        "Wild animals",
+        "A type of bird"
       ],
       "correct_answer": 1,
-      "explanation": "'Ambiguous' means having more than one possible meaning; not clear.",
-      "explanation_vn": "'Ambiguous' có nghĩa là mơ hồ, không rõ ràng, có thể hiểu theo nhiều cách."
+      "explanation": "'Cattle' refers to large domesticated animals, especially cows, raised for meat or milk.",
+      "explanation_vn": "'Cattle' là động vật nuôi lớn, đặc biệt là bò, được nuôi để lấy thịt hoặc sữa."
     },
     {
       "id": 5,
-      "question": "Select the meaning of 'resilient':",
-      "question_vn": "Chọn nghĩa của từ 'resilient':",
+      "question": "What does the word 'collect' mean?",
+      "question_vn": "Từ 'collect' có nghĩa là gì?",
       "options": [
-        "Weak and fragile",
-        "Able to recover quickly from difficulties",
-        "Permanently damaged",
-        "Unable to change"
+        "To give away something",
+        "To gather or bring things together",
+        "To sell something",
+        "To lose something"
       ],
       "correct_answer": 1,
-      "explanation": "'Resilient' means able to withstand or recover quickly from difficult conditions.",
-      "explanation_vn": "'Resilient' có nghĩa là kiên cường, có khả năng phục hồi nhanh sau khó khăn."
+      "explanation": "'Collect' means to gather or bring things together, often as a hobby.",
+      "explanation_vn": "'Collect' có nghĩa là thu thập hoặc gom lại các thứ, thường là sở thích cá nhân."
     },
     {
       "id": 6,
-      "question": "'Diligent' means:",
-      "question_vn": "'Diligent' có nghĩa là:",
+      "question": "What is the meaning of the word 'convenient'?",
+      "question_vn": "Từ 'convenient' có nghĩa là gì?",
       "options": [
-        "Lazy and unmotivated",
-        "Working carefully and steadily",
-        "Working quickly without care",
-        "Avoiding work"
+        "Easy to use and helpful",
+        "Difficult to use",
+        "Expensive",
+        "Unnecessary"
       ],
-      "correct_answer": 1,
-      "explanation": "'Diligent' means showing care and effort in one's work or duties.",
-      "explanation_vn": "'Diligent' có nghĩa là siêng năng, chăm chỉ, cẩn thận trong công việc."
+      "correct_answer": 0,
+      "explanation": "'Convenient' means something that is easy to use or helpful in a particular situation.",
+      "explanation_vn": "'Convenient' có nghĩa là một cái gì đó dễ sử dụng hoặc hữu ích trong một tình huống cụ thể."
     },
     {
       "id": 7,
-      "question": "What is the meaning of 'vast'?",
-      "question_vn": "Nghĩa của từ 'vast' là gì?",
+      "question": "What is the opposite of 'disturb'?",
+      "question_vn": "Từ nào trái nghĩa với 'disturb'?",
       "options": [
-        "Very small",
-        "Of very great extent or quantity; immense",
-        "Medium-sized",
-        "Narrow and limited"
+        "Interrupt",
+        "Calm",
+        "Bother",
+        "Agitate"
       ],
       "correct_answer": 1,
-      "explanation": "'Vast' means of very great size, amount, or extent.",
-      "explanation_vn": "'Vast' có nghĩa là rộng lớn, bao la, khổng lồ về kích thước hoặc số lượng."
+      "explanation": "'Disturb' means to interrupt or bother, and its opposite is 'calm', meaning to make peaceful or quiet.",
+      "explanation_vn": "'Disturb' có nghĩa là làm gián đoạn hoặc làm phiền, và từ trái nghĩa của nó là 'calm', có nghĩa là làm yên tĩnh hoặc hòa bình."
     },
     {
       "id": 8,
-      "question": "'Enhance' is best defined as:",
-      "question_vn": "'Enhance' được định nghĩa tốt nhất là:",
+      "question": "What is the meaning of 'electrical appliance'?",
+      "question_vn": "Từ 'electrical appliance' có nghĩa là gì?",
       "options": [
-        "To make worse",
-        "To improve or increase the quality",
-        "To remove completely",
-        "To keep the same"
+        "A device that uses electricity for operation",
+        "A tool used in construction",
+        "A type of vehicle",
+        "A kind of clothing"
       ],
-      "correct_answer": 1,
-      "explanation": "'Enhance' means to intensify, increase, or further improve the quality, value, or extent of something.",
-      "explanation_vn": "'Enhance' có nghĩa là nâng cao, cải thiện chất lượng, giá trị của cái gì đó."
+      "correct_answer": 0,
+      "explanation": "'Electrical appliance' refers to a device that requires electricity to function, such as a refrigerator or a fan.",
+      "explanation_vn": "'Electrical appliance' là thiết bị cần điện để hoạt động, ví dụ như tủ lạnh hoặc quạt."
     },
     {
       "id": 9,
-      "question": "The word 'crucial' means:",
-      "question_vn": "Từ 'crucial' có nghĩa là:",
+      "question": "What does the word 'generous' mean?",
+      "question_vn": "Từ 'generous' có nghĩa là gì?",
       "options": [
-        "Unimportant and trivial",
-        "Decisive or critical; extremely important",
-        "Somewhat useful",
-        "Completely unnecessary"
+        "Selfish",
+        "Willing to give or share",
+        "Greedy",
+        "Unkind"
       ],
       "correct_answer": 1,
-      "explanation": "'Crucial' means of great importance, especially in the success or failure of something.",
-      "explanation_vn": "'Crucial' có nghĩa là rất quan trọng, quyết định, thiết yếu cho sự thành công."
+      "explanation": "'Generous' means willing to give or share something, often with kindness.",
+      "explanation_vn": "'Generous' có nghĩa là sẵn sàng cho đi hoặc chia sẻ điều gì đó, thường với lòng tốt."
     },
     {
       "id": 10,
-      "question": "'Innovative' refers to:",
-      "question_vn": "'Innovative' ám chỉ:",
+      "question": "What is the meaning of 'ger'?",
+      "question_vn": "Từ 'ger' có nghĩa là gì?",
       "options": [
-        "Old-fashioned and traditional",
-        "Featuring new methods; original and creative",
-        "Copying others exactly",
-        "Refusing to change"
+        "A type of tent used by Mongolian nomads",
+        "A type of vehicle",
+        "A type of food",
+        "A kind of clothing"
       ],
-      "correct_answer": 1,
-      "explanation": "'Innovative' means featuring new methods, ideas, or products; original and creative in thinking.",
-      "explanation_vn": "'Innovative' có nghĩa là đổi mới, sáng tạo, mang tính cách tân với ý tưởng mới."
+      "correct_answer": 0,
+      "explanation": "'Ger' is a type of portable, circular tent used by Mongolian nomads.",
+      "explanation_vn": "'Ger' là một loại lều di động hình tròn được sử dụng bởi những người du mục Mông Cổ."
     },
     {
       "id": 11,
-      "question": "What does 'compromise' mean?",
-      "question_vn": "Từ 'compromise' có nghĩa là gì?",
+      "question": "Where are the Gobi HighLands located?",
+      "question_vn": "Gobi HighLands nằm ở đâu?",
       "options": [
-        "To refuse all negotiations",
-        "An agreement where each side gives up something",
-        "To win completely",
-        "To ignore the problem"
+        "South America",
+        "Mongolia",
+        "Africa",
+        "Europe"
       ],
       "correct_answer": 1,
-      "explanation": "'Compromise' means an agreement where each party makes concessions.",
-      "explanation_vn": "'Compromise' có nghĩa là thỏa hiệp, nhượng bộ để đạt được thỏa thuận giữa các bên."
+      "explanation": "The Gobi HighLands are located in Mongolia, known for its vast deserts and unique wildlife.",
+      "explanation_vn": "Gobi HighLands nằm ở Mông Cổ, nổi tiếng với những sa mạc rộng lớn và động vật hoang dã đặc biệt."
     },
     {
       "id": 12,
-      "question": "'Persuade' means to:",
-      "question_vn": "'Persuade' có nghĩa là:",
+      "question": "What is the meaning of the word 'grassland'?",
+      "question_vn": "Từ 'grassland' có nghĩa là gì?",
       "options": [
-        "Force someone to do something",
-        "Cause someone to believe or do something through reasoning",
-        "Ignore someone's opinion",
-        "Give up trying"
+        "An area covered with trees",
+        "A flat area with grass and few trees",
+        "A type of desert",
+        "An area with a lot of mountains"
       ],
       "correct_answer": 1,
-      "explanation": "'Persuade' means to convince someone to do or believe something through reasoning or argument.",
-      "explanation_vn": "'Persuade' có nghĩa là thuyết phục ai đó tin hoặc làm điều gì đó bằng lý lẽ."
-    },
-    {
-      "id": 13,
-      "question": "The meaning of 'analyze' is:",
-      "question_vn": "Nghĩa của từ 'analyze' là:",
-      "options": [
-        "To ignore completely",
-        "To examine in detail to understand or explain",
-        "To guess randomly",
-        "To memorize without understanding"
-      ],
-      "correct_answer": 1,
-      "explanation": "'Analyze' means to examine something methodically and in detail.",
-      "explanation_vn": "'Analyze' có nghĩa là phân tích, xem xét chi tiết để hiểu rõ về cái gì đó."
-    },
-    {
-      "id": 14,
-      "question": "'Substantial' is best defined as:",
-      "question_vn": "'Substantial' được định nghĩa tốt nhất là:",
-      "options": [
-        "Very small and insignificant",
-        "Of considerable importance, size, or worth",
-        "Completely absent",
-        "Barely noticeable"
-      ],
-      "correct_answer": 1,
-      "explanation": "'Substantial' means of considerable importance, size, value, or degree.",
-      "explanation_vn": "'Substantial' có nghĩa là đáng kể, quan trọng về quy mô, giá trị hoặc mức độ."
-    },
-    {
-      "id": 15,
-      "question": "What does 'emerge' mean?",
-      "question_vn": "Từ 'emerge' có nghĩa là gì?",
-      "options": [
-        "To disappear completely",
-        "To become visible or known; to come out",
-        "To stay hidden forever",
-        "To go inside"
-      ],
-      "correct_answer": 1,
-      "explanation": "'Emerge' means to come forth into view or notice; to become apparent.",
-      "explanation_vn": "'Emerge' có nghĩa là xuất hiện, nổi lên, trở nên rõ ràng hoặc được biết đến."
-    },
-    {
-      "id": 16,
-      "question": "'Implement' means:",
-      "question_vn": "'Implement' có nghĩa là:",
-      "options": [
-        "To cancel a plan",
-        "To put a plan or decision into effect",
-        "To think about doing something",
-        "To delay indefinitely"
-      ],
-      "correct_answer": 1,
-      "explanation": "'Implement' means to put a decision, plan, or agreement into effect.",
-      "explanation_vn": "'Implement' có nghĩa là thực hiện, thi hành một kế hoạch hoặc quyết định."
-    },
-    {
-      "id": 17,
-      "question": "The word 'diverse' means:",
-      "question_vn": "Từ 'diverse' có nghĩa là:",
-      "options": [
-        "All the same",
-        "Showing a great deal of variety; very different",
-        "Uniform and identical",
-        "Boring and repetitive"
-      ],
-      "correct_answer": 1,
-      "explanation": "'Diverse' means showing a great deal of variety; different from each other.",
-      "explanation_vn": "'Diverse' có nghĩa là đa dạng, khác nhau, có nhiều loại khác nhau."
-    },
-    {
-      "id": 18,
-      "question": "'Coherent' is best described as:",
-      "question_vn": "'Coherent' được mô tả tốt nhất là:",
-      "options": [
-        "Confusing and unclear",
-        "Logical and consistent; easy to understand",
-        "Contradictory",
-        "Meaningless"
-      ],
-      "correct_answer": 1,
-      "explanation": "'Coherent' means logical, consistent, and easy to understand.",
-      "explanation_vn": "'Coherent' có nghĩa là mạch lạc, logic, dễ hiểu và nhất quán."
-    },
-    {
-      "id": 19,
-      "question": "What does 'contemplate' mean?",
-      "question_vn": "Từ 'contemplate' có nghĩa là gì?",
-      "options": [
-        "To act without thinking",
-        "To think about carefully; to consider thoughtfully",
-        "To forget immediately",
-        "To reject without consideration"
-      ],
-      "correct_answer": 1,
-      "explanation": "'Contemplate' means to think about something carefully and at length.",
-      "explanation_vn": "'Contemplate' có nghĩa là suy ngẫm, cân nhắc kỹ lưỡng về điều gì đó."
-    },
-    {
-      "id": 20,
-      "question": "'Sustain' means:",
-      "question_vn": "'Sustain' có nghĩa là:",
-      "options": [
-        "To stop or end something",
-        "To maintain or support over time",
-        "To destroy completely",
-        "To ignore and abandon"
-      ],
-      "correct_answer": 1,
-      "explanation": "'Sustain' means to cause to continue or keep in existence; to maintain.",
-      "explanation_vn": "'Sustain' có nghĩa là duy trì, bảo trì, giữ cho cái gì tồn tại liên tục."
+      "explanation": "'Grassland' refers to a large area of land covered with grass, often with few trees.",
+      "explanation_vn": "'Grassland' chỉ một khu vực rộng lớn có cỏ, thường ít cây cối."
     }
   ]
 }
