@@ -1,4 +1,5 @@
-[
+{
+  "quizzes": [
   {
     "id": 1,
     "question": "What does the word 'colourful' mean?",
@@ -81,3 +82,4 @@
     "explanation_vn": "'Harvest time' là thời gian thu hoạch cây trồng từ đồng ruộng."
   }
 ]
+}
