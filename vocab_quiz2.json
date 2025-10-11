@@ -2,61 +2,124 @@
   "quiz": [
     {
       "id": 1,
-      "question": "The opposite of 'happy' is __________.",
-      "correct_answer": "sad",
+      "question": "What does the word 'Chat' mean?",
+      "question_vn": "Từ 'Chat' có nghĩa là gì?",
+      "correct_answer": "a casual conversation",
       "accepted_answers": [
-        "sad",
-        "unhappy",
-        "miserable",
-        "down"
+        "a casual conversation",
+        "talking informally",
+        "a discussion",
+        "to converse",
+        "informal talk",
+        "friendly conversation"
       ],
-      "score": 1
+      "hint": [
+        "a casual conversation",
+        "talking informally",
+        "a discussion",
+        "to converse",
+        "informal talk"
+      ],
+      "explanation": "'Chat' means an informal or casual conversation between people.",
+      "explanation_vn": "'Chat' có nghĩa là một cuộc trò chuyện không chính thức, thoải mái giữa mọi người."
     },
     {
       "id": 2,
-      "question": "A 'doctor' works in a __________.",
-      "correct_answer": "hospital",
+      "question": "What does the word 'History' mean?",
+      "question_vn": "Từ 'History' có nghĩa là gì?",
+      "correct_answer": "the study of past events",
       "accepted_answers": [
-        "hospital",
-        "clinic",
-        "medical center",
-        "doctor's office"
+        "the study of past events",
+        "past events",
+        "the past",
+        "record of the past",
+        "study of the past",
+        "events from the past"
       ],
-      "score": 1
+      "hint": [
+        "the study of past events",
+        "past events",
+        "the past",
+        "record of the past",
+        "study of the past"
+      ],
+      "explanation": "'History' refers to the study of past events, particularly in human affairs, or a continuous record of past events.",
+      "explanation_vn": "'History' có nghĩa là lịch sử - nghiên cứu về các sự kiện trong quá khứ, đặc biệt là trong các vấn đề của con người."
     },
     {
       "id": 3,
-      "question": "'Sun' is a __________ in the sky that provides light and heat.",
-      "correct_answer": "star",
+      "question": "What does the word 'Elephant' mean?",
+      "question_vn": "Từ 'Elephant' có nghĩa là gì?",
+      "correct_answer": "a large animal with a trunk",
       "accepted_answers": [
-        "star",
-        "sun",
-        "celestial body"
+        "a large animal with a trunk",
+        "large animal with trunk",
+        "big animal with trunk",
+        "animal with long trunk",
+        "largest land animal",
+        "big grey animal"
       ],
-      "score": 1
+      "hint": [
+        "a large animal with a trunk",
+        "large animal with trunk",
+        "biggest land animal",
+        "animal with long trunk",
+        "grey animal with big ears"
+      ],
+      "explanation": "'Elephant' is a very large mammal with a long trunk, large ears, and ivory tusks. It is the largest living land animal.",
+      "explanation_vn": "'Elephant' có nghĩa là con voi - động vật có vú rất lớn với vòi dài, tai to và ngà voi. Đây là động vật trên cạn lớn nhất còn sống."
     },
     {
       "id": 4,
-      "question": "The opposite of 'big' is __________.",
-      "correct_answer": "small",
+      "question": "What does the word 'Happy' mean?",
+      "question_vn": "Từ 'Happy' có nghĩa là gì?",
+      "correct_answer": "feeling pleased or joyful",
       "accepted_answers": [
-        "small",
-        "tiny",
-        "little",
-        "petite"
+        "feeling pleased or joyful",
+        "feeling joy",
+        "feeling pleased",
+        "joyful",
+        "pleased",
+        "feeling good",
+        "glad",
+        "content",
+        "cheerful"
       ],
-      "score": 1
+      "hint": [
+        "feeling pleased or joyful",
+        "feeling joy",
+        "joyful",
+        "pleased",
+        "glad",
+        "cheerful"
+      ],
+      "explanation": "'Happy' means feeling or showing pleasure, contentment, or joy. It describes a positive emotional state.",
+      "explanation_vn": "'Happy' có nghĩa là vui vẻ, hạnh phúc - cảm thấy hoặc thể hiện sự hài lòng, vui mừng. Nó mô tả trạng thái cảm xúc tích cực."
     },
     {
       "id": 5,
-      "question": "'Elephant' is a type of __________ that is very large and has long ears.",
-      "correct_answer": "animal",
+      "question": "What does the word 'Hotel' mean?",
+      "question_vn": "Từ 'Hotel' có nghĩa là gì?",
+      "correct_answer": "a place for travelers to stay",
       "accepted_answers": [
-        "animal",
-        "mammal",
-        "creature"
+        "a place for travelers to stay",
+        "place to stay",
+        "accommodation for travelers",
+        "building for lodging",
+        "place providing rooms",
+        "lodging establishment",
+        "guest house",
+        "place for overnight stay"
       ],
-      "score": 1
+      "hint": [
+        "a place for travelers to stay",
+        "place to stay",
+        "accommodation for travelers",
+        "building for lodging",
+        "place providing rooms"
+      ],
+      "explanation": "'Hotel' is an establishment providing accommodation, meals, and other services for travelers and tourists, typically on a short-term basis.",
+      "explanation_vn": "'Hotel' có nghĩa là khách sạn - cơ sở cung cấp chỗ ở, bữa ăn và các dịch vụ khác cho khách du lịch, thường là trong thời gian ngắn."
     }
   ]
 }
