@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "question": "What does the word 'colourful' mean?",
+    "question_vn": "Từ 'colourful' có nghĩa là gì?",
+    "options": ["Full of colors", "Very quiet", "Made of metal", "Covered in dust"],
+    "correct_answer": 0,
+    "explanation": "'Colourful' means having many different colors.",
+    "explanation_vn": "'Colourful' có nghĩa là có nhiều màu sắc khác nhau."
+  },
+  {
+    "id": 2,
+    "question": "What does the word 'peaceful' mean?",
+    "question_vn": "Từ 'peaceful' có nghĩa là gì?",
+    "options": ["Very noisy", "Without violence or noise", "Exciting and fast", "Crowded with people"],
+    "correct_answer": 1,
+    "explanation": "'Peaceful' describes a calm and quiet situation without conflict.",
+    "explanation_vn": "'Peaceful' mô tả một tình huống yên bình, không có xung đột hay ồn ào."
+  },
+  {
+    "id": 3,
+    "question": "What is a 'ger'?",
+    "question_vn": "'Ger' là gì?",
+    "options": ["A traditional Mongolian tent", "A type of boat", "A farm machine", "A wild animal"],
+    "correct_answer": 0,
+    "explanation": "A 'ger' is a portable round tent used by nomads in Mongolia.",
+    "explanation_vn": "'Ger' là một loại lều tròn di động được người du mục ở Mông Cổ sử dụng."
+  },
+  {
+    "id": 4,
+    "question": "What does 'pasture' mean?",
+    "question_vn": "Từ 'pasture' có nghĩa là gì?",
+    "options": ["A mountain", "A grassy area where animals graze", "A river", "A type of house"],
+    "correct_answer": 1,
+    "explanation": "'Pasture' is land covered with grass used for animals to feed on.",
+    "explanation_vn": "'Pasture' là vùng đất có cỏ nơi động vật được chăn thả."
+  },
+  {
+    "id": 5,
+    "question": "What are 'cattle'?",
+    "question_vn": "'Cattle' là gì?",
+    "options": ["A type of bird", "Farm animals like cows and bulls", "Fishing equipment", "A kind of tree"],
+    "correct_answer": 1,
+    "explanation": "'Cattle' are large farm animals such as cows and bulls.",
+    "explanation_vn": "'Cattle' là những động vật nuôi lớn như bò cái và bò đực."
+  },
+  {
+    "id": 6,
+    "question": "What is 'rice'?",
+    "question_vn": "'Rice' là gì?",
+    "options": ["A kind of meat", "A leafy vegetable", "A cereal grain eaten by many people", "A spicy sauce"],
+    "correct_answer": 2,
+    "explanation": "'Rice' is a grain that is a staple food for many people around the world.",
+    "explanation_vn": "'Rice' là một loại ngũ cốc là thực phẩm chính của nhiều người trên thế giới."
+  },
+  {
+    "id": 7,
+    "question": "What are 'horses'?",
+    "question_vn": "'Horses' là gì?",
+    "options": ["Flying animals", "Large animals used for riding or work", "Types of insects", "Small birds"],
+    "correct_answer": 1,
+    "explanation": "'Horses' are large animals that people ride or use to carry things.",
+    "explanation_vn": "'Horses' là động vật lớn mà con người cưỡi hoặc dùng để chở đồ."
+  },
+  {
+    "id": 8,
+    "question": "What are 'paddy fields'?",
+    "question_vn": "'Paddy fields' là gì?",
+    "options": ["Desert lands", "Water-covered fields for growing rice", "High mountain paths", "Cattle barns"],
+    "correct_answer": 1,
+    "explanation": "'Paddy fields' are flooded fields where rice is grown.",
+    "explanation_vn": "'Paddy fields' là những cánh đồng ngập nước dùng để trồng lúa."
+  },
+  {
+    "id": 9,
+    "question": "What does 'harvest time' mean?",
+    "question_vn": "Từ 'harvest time' có nghĩa là gì?",
+    "options": ["Time to plant seeds", "Time when crops are gathered", "Time to feed animals", "Time to rest"],
+    "correct_answer": 1,
+    "explanation": "'Harvest time' is the period when crops are collected from the fields.",
+    "explanation_vn": "'Harvest time' là thời gian thu hoạch cây trồng từ đồng ruộng."
+  }
+]
