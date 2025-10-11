@@ -2,171 +2,73 @@
   "quizzes": [
     {
       "id": 1,
-      "question": "What does the word 'beehive' mean?",
-      "question_vn": "Từ 'beehive' có nghĩa là gì?",
+      "question": "Who was the leader of the Tây Sơn Rebellion?",
+      "question_vn": "Ai là người lãnh đạo của Phong Trào Tây Sơn?",
       "options": [
-        "A place where bees live",
-        "A type of flower",
-        "A tool for honey collection",
-        "A small village"
+        "Nguyễn Huệ",
+        "Trần Quang Diệu",
+        "Nguyễn Nhạc",
+        "Lê Lợi"
       ],
       "correct_answer": 0,
-      "explanation": "'Beehive' refers to the structure where bees live and store honey.",
-      "explanation_vn": "'Beehive' là cấu trúc mà ong sống và lưu trữ mật ong."
+      "explanation": "Nguyễn Huệ, also known as Quang Trung, was the most famous leader of the Tây Sơn Rebellion, leading the movement against the Nguyễn and Trịnh lords.",
+      "explanation_vn": "Nguyễn Huệ, hay còn gọi là Quang Trung, là người lãnh đạo nổi tiếng nhất của Phong Trào Tây Sơn, dẫn đầu cuộc khởi nghĩa chống lại các chúa Nguyễn và chúa Trịnh."
     },
     {
       "id": 2,
-      "question": "What is the synonym of 'brave'?",
-      "question_vn": "Từ nào có nghĩa tương tự 'brave'?",
+      "question": "In which battle did Nguyễn Huệ defeat the Qing army in 1789?",
+      "question_vn": "Trong trận chiến nào Nguyễn Huệ đã đánh bại quân Thanh vào năm 1789?",
       "options": [
-        "Cowardly",
-        "Courageous",
-        "Friendly",
-        "Timid"
+        "Trận Đống Đa",
+        "Trận Tây Sơn",
+        "Trận Bạch Đằng",
+        "Trận Hương Khê"
       ],
-      "correct_answer": 1,
-      "explanation": "'Courageous' is a synonym of 'brave'.",
-      "explanation_vn": "'Courageous' có nghĩa là dũng cảm, là từ đồng nghĩa với 'brave'."
+      "correct_answer": 0,
+      "explanation": "The Battle of Đống Đa in 1789 was a decisive victory for Nguyễn Huệ, who defeated the Qing army and liberated Vietnam from the invasion.",
+      "explanation_vn": "Trận Đống Đa vào năm 1789 là chiến thắng quyết định của Nguyễn Huệ, đánh bại quân Thanh và giải phóng Việt Nam khỏi sự xâm lược."
     },
     {
       "id": 3,
-      "question": "What is the meaning of the word 'buffalo-drawn cart'?",
-      "question_vn": "Từ 'buffalo-drawn cart' có nghĩa là gì?",
+      "question": "Which dynasty did the Tây Sơn Rebellion overthrow?",
+      "question_vn": "Phong Trào Tây Sơn đã lật đổ triều đại nào?",
       "options": [
-        "A cart pulled by a donkey",
-        "A cart pulled by a buffalo",
-        "A type of vehicle",
-        "A small handcart"
+        "Nguyễn",
+        "Trịnh",
+        "Lê",
+        "Mạc"
       ],
-      "correct_answer": 1,
-      "explanation": "'Buffalo-drawn cart' refers to a cart that is pulled by a buffalo, commonly used in some rural areas.",
-      "explanation_vn": "'Buffalo-drawn cart' là chiếc xe được kéo bởi một con trâu, thường được sử dụng ở một số khu vực nông thôn."
+      "correct_answer": 0,
+      "explanation": "The Tây Sơn Rebellion led to the overthrow of the Nguyễn dynasty, which had been in power in southern Vietnam.",
+      "explanation_vn": "Phong Trào Tây Sơn đã dẫn đến việc lật đổ triều đại Nguyễn, triều đại cầm quyền ở miền Nam Việt Nam."
     },
     {
       "id": 4,
-      "question": "What does the word 'cattle' refer to?",
-      "question_vn": "Từ 'cattle' có nghĩa là gì?",
+      "question": "What was the original purpose of the Tây Sơn Rebellion?",
+      "question_vn": "Mục đích ban đầu của Phong Trào Tây Sơn là gì?",
       "options": [
-        "Sheep and goats",
-        "Large domesticated animals, especially cows",
-        "Wild animals",
-        "A type of bird"
+        "To unify Vietnam",
+        "To fight the Chinese invaders",
+        "To overthrow the Nguyễn lords",
+        "To restore the Lê dynasty"
       ],
-      "correct_answer": 1,
-      "explanation": "'Cattle' refers to large domesticated animals, especially cows, raised for meat or milk.",
-      "explanation_vn": "'Cattle' là động vật nuôi lớn, đặc biệt là bò, được nuôi để lấy thịt hoặc sữa."
+      "correct_answer": 2,
+      "explanation": "The Tây Sơn Rebellion initially aimed to overthrow the Nguyễn lords, who had ruled southern Vietnam with oppressive policies.",
+      "explanation_vn": "Phong Trào Tây Sơn ban đầu nhằm mục đích lật đổ các chúa Nguyễn, những người đã cai trị miền Nam Việt Nam bằng các chính sách áp bức."
     },
     {
       "id": 5,
-      "question": "What does the word 'collect' mean?",
-      "question_vn": "Từ 'collect' có nghĩa là gì?",
+      "question": "When did the Tây Sơn Rebellion begin?",
+      "question_vn": "Phong Trào Tây Sơn bắt đầu vào năm nào?",
       "options": [
-        "To give away something",
-        "To gather or bring things together",
-        "To sell something",
-        "To lose something"
-      ],
-      "correct_answer": 1,
-      "explanation": "'Collect' means to gather or bring things together, often as a hobby.",
-      "explanation_vn": "'Collect' có nghĩa là thu thập hoặc gom lại các thứ, thường là sở thích cá nhân."
-    },
-    {
-      "id": 6,
-      "question": "What is the meaning of the word 'convenient'?",
-      "question_vn": "Từ 'convenient' có nghĩa là gì?",
-      "options": [
-        "Easy to use and helpful",
-        "Difficult to use",
-        "Expensive",
-        "Unnecessary"
+        "1771",
+        "1789",
+        "1802",
+        "1768"
       ],
       "correct_answer": 0,
-      "explanation": "'Convenient' means something that is easy to use or helpful in a particular situation.",
-      "explanation_vn": "'Convenient' có nghĩa là một cái gì đó dễ sử dụng hoặc hữu ích trong một tình huống cụ thể."
-    },
-    {
-      "id": 7,
-      "question": "What is the opposite of 'disturb'?",
-      "question_vn": "Từ nào trái nghĩa với 'disturb'?",
-      "options": [
-        "Interrupt",
-        "Calm",
-        "Bother",
-        "Agitate"
-      ],
-      "correct_answer": 1,
-      "explanation": "'Disturb' means to interrupt or bother, and its opposite is 'calm', meaning to make peaceful or quiet.",
-      "explanation_vn": "'Disturb' có nghĩa là làm gián đoạn hoặc làm phiền, và từ trái nghĩa của nó là 'calm', có nghĩa là làm yên tĩnh hoặc hòa bình."
-    },
-    {
-      "id": 8,
-      "question": "What is the meaning of 'electrical appliance'?",
-      "question_vn": "Từ 'electrical appliance' có nghĩa là gì?",
-      "options": [
-        "A device that uses electricity for operation",
-        "A tool used in construction",
-        "A type of vehicle",
-        "A kind of clothing"
-      ],
-      "correct_answer": 0,
-      "explanation": "'Electrical appliance' refers to a device that requires electricity to function, such as a refrigerator or a fan.",
-      "explanation_vn": "'Electrical appliance' là thiết bị cần điện để hoạt động, ví dụ như tủ lạnh hoặc quạt."
-    },
-    {
-      "id": 9,
-      "question": "What does the word 'generous' mean?",
-      "question_vn": "Từ 'generous' có nghĩa là gì?",
-      "options": [
-        "Selfish",
-        "Willing to give or share",
-        "Greedy",
-        "Unkind"
-      ],
-      "correct_answer": 1,
-      "explanation": "'Generous' means willing to give or share something, often with kindness.",
-      "explanation_vn": "'Generous' có nghĩa là sẵn sàng cho đi hoặc chia sẻ điều gì đó, thường với lòng tốt."
-    },
-    {
-      "id": 10,
-      "question": "What is the meaning of 'ger'?",
-      "question_vn": "Từ 'ger' có nghĩa là gì?",
-      "options": [
-        "A type of tent used by Mongolian nomads",
-        "A type of vehicle",
-        "A type of food",
-        "A kind of clothing"
-      ],
-      "correct_answer": 0,
-      "explanation": "'Ger' is a type of portable, circular tent used by Mongolian nomads.",
-      "explanation_vn": "'Ger' là một loại lều di động hình tròn được sử dụng bởi những người du mục Mông Cổ."
-    },
-    {
-      "id": 11,
-      "question": "Where are the Gobi HighLands located?",
-      "question_vn": "Gobi HighLands nằm ở đâu?",
-      "options": [
-        "South America",
-        "Mongolia",
-        "Africa",
-        "Europe"
-      ],
-      "correct_answer": 1,
-      "explanation": "The Gobi HighLands are located in Mongolia, known for its vast deserts and unique wildlife.",
-      "explanation_vn": "Gobi HighLands nằm ở Mông Cổ, nổi tiếng với những sa mạc rộng lớn và động vật hoang dã đặc biệt."
-    },
-    {
-      "id": 12,
-      "question": "What is the meaning of the word 'grassland'?",
-      "question_vn": "Từ 'grassland' có nghĩa là gì?",
-      "options": [
-        "An area covered with trees",
-        "A flat area with grass and few trees",
-        "A type of desert",
-        "An area with a lot of mountains"
-      ],
-      "correct_answer": 1,
-      "explanation": "'Grassland' refers to a large area of land covered with grass, often with few trees.",
-      "explanation_vn": "'Grassland' chỉ một khu vực rộng lớn có cỏ, thường ít cây cối."
+      "explanation": "The Tây Sơn Rebellion began in 1771, when three brothers from the Tây Sơn family, led by Nguyễn Nhạc, rose up against the local rulers.",
+      "explanation_vn": "Phong Trào Tây Sơn bắt đầu vào năm 1771, khi ba anh em nhà Tây Sơn, do Nguyễn Nhạc lãnh đạo, nổi dậy chống lại các cai trị địa phương."
     }
   ]
 }
