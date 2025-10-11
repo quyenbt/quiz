@@ -1,0 +1,76 @@
+{
+  "quizzes": [
+    {
+      "id": 1,
+      "question": "What is the meaning of the word 'blackberry'?",
+      "question_vn": "Từ 'blackberry' có nghĩa là gì?",
+      "options": ["A type of dark fruit", "A type of computer", "A black insect", "A type of bread"],
+      "correct_answer": 0,
+      "explanation": "'Blackberry' is a small, dark purple or black fruit.",
+      "explanation_vn": "'Blackberry' là một loại quả nhỏ, màu tím đậm hoặc đen."
+    },
+    {
+      "id": 2,
+      "question": "What does the word 'climb' mean?",
+      "question_vn": "Từ 'climb' có nghĩa là gì?",
+      "options": ["To cook something", "To move upward", "To write something", "To eat quickly"],
+      "correct_answer": 1,
+      "explanation": "'Climb' means to go up something, like a mountain or stairs.",
+      "explanation_vn": "'Climb' có nghĩa là leo lên thứ gì đó, như núi hoặc cầu thang."
+    },
+    {
+      "id": 3,
+      "question": "What does the word 'click' mean?",
+      "question_vn": "Từ 'click' có nghĩa là gì?",
+      "options": ["To run fast", "To make a short sharp sound", "To sleep", "To read quickly"],
+      "correct_answer": 1,
+      "explanation": "'Click' means to make a short, sharp sound, often by pressing a button.",
+      "explanation_vn": "'Click' có nghĩa là tạo ra âm thanh ngắn và sắc, thường là khi nhấn nút."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is closest in meaning to 'bloom'?",
+      "question_vn": "Từ nào dưới đây có nghĩa gần nhất với 'bloom'?",
+      "options": ["Grow", "Sleep", "Dance", "Eat"],
+      "correct_answer": 0,
+      "explanation": "'Bloom' means to produce flowers or to flourish.",
+      "explanation_vn": "'Bloom' có nghĩa là nở hoa hoặc phát triển mạnh mẽ."
+    },
+    {
+      "id": 5,
+      "question": "What is the meaning of the word 'clock'?",
+      "question_vn": "Từ 'clock' có nghĩa là gì?",
+      "options": ["A machine that tells time", "A type of bird", "A musical instrument", "A kind of food"],
+      "correct_answer": 0,
+      "explanation": "A 'clock' is a device used to tell the time.",
+      "explanation_vn": "'Clock' là một thiết bị dùng để xem giờ."
+    },
+    {
+      "id": 6,
+      "question": "What is the meaning of the word 'clothing'?",
+      "question_vn": "Từ 'clothing' có nghĩa là gì?",
+      "options": ["Furniture", "Food", "Clothes", "Shoes only"],
+      "correct_answer": 2,
+      "explanation": "'Clothing' refers to garments people wear.",
+      "explanation_vn": "'Clothing' dùng để chỉ quần áo mà con người mặc."
+    },
+    {
+      "id": 7,
+      "question": "What does the word 'clay' mean?",
+      "question_vn": "Từ 'clay' có nghĩa là gì?",
+      "options": ["A type of plastic", "A kind of metal", "Soft earth used for making pottery", "A strong perfume"],
+      "correct_answer": 2,
+      "explanation": "'Clay' is a soft, sticky earth material used to make bricks or pottery.",
+      "explanation_vn": "'Clay' là đất sét mềm, dính, dùng để làm gạch hoặc đồ gốm."
+    },
+    {
+      "id": 8,
+      "question": "What is the opposite of 'clear'?",
+      "question_vn": "Từ trái nghĩa với 'clear' là gì?",
+      "options": ["Bright", "Loud", "Foggy", "Clean"],
+      "correct_answer": 2,
+      "explanation": "'Clear' means easy to see or understand; its opposite is 'foggy'.",
+      "explanation_vn": "'Clear' có nghĩa là rõ ràng, dễ nhìn; từ trái nghĩa là 'foggy' (mù mịt)."
+    }
+  ]
+}
