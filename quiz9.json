@@ -1,0 +1,144 @@
+{
+  "quizzes": [
+    {
+      "id": 1,
+      "question": "What does the word 'forum' mean?",
+      "question_vn": "Từ 'forum' có nghĩa là gì?",
+      "options": [
+        "A type of ancient weapon",
+        "A place for public discussion or exchange of ideas",
+        "A type of tree",
+        "An online game"
+      ],
+      "correct_answer": 1,
+      "explanation": "A 'forum' is a place, meeting, or medium where ideas and views on a particular issue can be exchanged, often used for online discussions.",
+      "explanation_vn": "'Forum' là một nơi, cuộc họp hoặc phương tiện để trao đổi ý kiến và quan điểm về một vấn đề cụ thể, thường được dùng cho các cuộc thảo luận trực tuyến."
+    },
+    {
+      "id": 2,
+      "question": "Choose the word that has the same meaning as 'cattle':",
+      "question_vn": "Chọn từ có nghĩa giống với 'cattle':",
+      "options": [
+        "Cars",
+        "Cows and bulls",
+        "Wolves",
+        "Birds"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Cattle' refers to domesticated bovine animals like cows and bulls that are raised on farms.",
+      "explanation_vn": "'Cattle' dùng để chỉ động vật thuộc họ bò như bò cái và bò đực được nuôi trên nông trại."
+    },
+    {
+      "id": 3,
+      "question": "What does the word 'herd' refer to?",
+      "question_vn": "Từ 'herd' đề cập đến điều gì?",
+      "options": [
+        "A group of people at a concert",
+        "A single wild animal",
+        "A group of animals like cattle or sheep",
+        "A stack of books"
+      ],
+      "correct_answer": 2,
+      "explanation": "A 'herd' is a group of animals, especially large ones like cattle, sheep, or elephants, that live or move together.",
+      "explanation_vn": "'Herd' là một nhóm động vật, đặc biệt là các loài lớn như bò, cừu hoặc voi, sống hoặc di chuyển cùng nhau."
+    },
+    {
+      "id": 4,
+      "question": "What is the meaning of the word 'stress'?",
+      "question_vn": "Từ 'stress' có nghĩa là gì?",
+      "options": [
+        "A form of exercise",
+        "Mental or emotional strain",
+        "A relaxing activity",
+        "A holiday trip"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Stress' refers to mental or emotional tension resulting from adverse or demanding situations.",
+      "explanation_vn": "'Stress' là sự căng thẳng tinh thần hoặc cảm xúc do những tình huống khó khăn hoặc đòi hỏi cao gây ra."
+    },
+    {
+      "id": 5,
+      "question": "Which word best describes a design that is easy to use?",
+      "question_vn": "Từ nào mô tả tốt nhất một thiết kế dễ sử dụng?",
+      "options": [
+        "User-friendly",
+        "Complicated",
+        "Outdated",
+        "Dangerous"
+      ],
+      "correct_answer": 0,
+      "explanation": "'User-friendly' means easy to use or understand, especially in relation to technology or design.",
+      "explanation_vn": "'User-friendly' có nghĩa là dễ sử dụng hoặc dễ hiểu, đặc biệt liên quan đến công nghệ hoặc thiết kế."
+    },
+    {
+      "id": 6,
+      "question": "What does 'pressure' mean in this context: 'He is under a lot of pressure at work'?",
+      "question_vn": "Từ 'pressure' trong câu 'Anh ấy đang chịu nhiều áp lực trong công việc' có nghĩa là gì?",
+      "options": [
+        "Physical touch",
+        "Atmospheric condition",
+        "Mental or emotional strain",
+        "A type of machine"
+      ],
+      "correct_answer": 2,
+      "explanation": "In this context, 'pressure' means mental stress or burden caused by responsibilities or expectations.",
+      "explanation_vn": "Trong ngữ cảnh này, 'pressure' có nghĩa là căng thẳng tinh thần do trách nhiệm hoặc kỳ vọng gây ra."
+    },
+    {
+      "id": 7,
+      "question": "What does the word 'harvest' refer to?",
+      "question_vn": "Từ 'harvest' đề cập đến điều gì?",
+      "options": [
+        "Planting seeds",
+        "Watering plants",
+        "Collecting crops",
+        "Building houses"
+      ],
+      "correct_answer": 2,
+      "explanation": "'Harvest' means the process of gathering mature crops from the fields.",
+      "explanation_vn": "'Harvest' là quá trình thu hoạch cây trồng đã trưởng thành từ đồng ruộng."
+    },
+    {
+      "id": 8,
+      "question": "Which of the following best defines the word 'craft'?",
+      "question_vn": "Từ nào sau đây định nghĩa tốt nhất từ 'craft'?",
+      "options": [
+        "A lazy activity",
+        "A type of sports car",
+        "Skill in making things by hand",
+        "Reading a book"
+      ],
+      "correct_answer": 2,
+      "explanation": "'Craft' refers to the skill of making things by hand, often in a traditional or artistic way.",
+      "explanation_vn": "'Craft' đề cập đến kỹ năng làm đồ thủ công bằng tay, thường theo cách truyền thống hoặc nghệ thuật."
+    },
+    {
+      "id": 9,
+      "question": "What does the word 'connect' mean?",
+      "question_vn": "Từ 'connect' có nghĩa là gì?",
+      "options": [
+        "To separate things",
+        "To join or link things together",
+        "To forget something",
+        "To close something permanently"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Connect' means to join or link two or more things together so they can work or communicate.",
+      "explanation_vn": "'Connect' có nghĩa là kết nối hoặc liên kết hai hay nhiều thứ để chúng có thể hoạt động hoặc giao tiếp với nhau."
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct meaning of 'crop':",
+      "question_vn": "Chọn nghĩa đúng của từ 'crop':",
+      "options": [
+        "A type of music",
+        "A tool for fishing",
+        "A plant that is grown and harvested",
+        "A wild animal"
+      ],
+      "correct_answer": 2,
+      "explanation": "A 'crop' is a plant that is grown in large amounts, especially for food.",
+      "explanation_vn": "'Crop' là một loại cây được trồng với số lượng lớn, đặc biệt là để làm thực phẩm."
+    }
+  ]
+}
