@@ -1,0 +1,185 @@
+{
+  "quizzes": [
+    {
+      "id": 1,
+      "question": "What is the function of the cell wall in plant cells?",
+      "question_vn": "Chức năng của vách tế bào trong tế bào thực vật là gì?",
+      "options": [
+        "To store water",
+        "To protect and support the cell",
+        "To control what enters and exits the cell",
+        "To produce energy"
+      ],
+      "correct_answer": 1,
+      "explanation": "The cell wall provides structural support and protection to plant cells.",
+      "explanation_vn": "Vách tế bào cung cấp sự hỗ trợ cấu trúc và bảo vệ cho tế bào thực vật."
+    },
+    {
+      "id": 2,
+      "question": "Which part of the plant cell contains the genetic material?",
+      "question_vn": "Bộ phận nào trong tế bào thực vật chứa vật chất di truyền?",
+      "options": [
+        "Cytoplasm",
+        "Nucleus",
+        "Vacuole",
+        "Cell wall"
+      ],
+      "correct_answer": 1,
+      "explanation": "The nucleus contains the cell's genetic material (DNA) and controls cell activities.",
+      "explanation_vn": "Nhân tế bào chứa vật chất di truyền (DNA) và điều khiển các hoạt động của tế bào."
+    },
+    {
+      "id": 3,
+      "question": "What does the vacuole do in a plant cell?",
+      "question_vn": "Vacuole trong tế bào thực vật có chức năng gì?",
+      "options": [
+        "Stores genetic material",
+        "Stores water and nutrients",
+        "Produces energy",
+        "Supports cell structure"
+      ],
+      "correct_answer": 1,
+      "explanation": "The vacuole stores water, nutrients, and waste products.",
+      "explanation_vn": "Vacuole lưu trữ nước, chất dinh dưỡng và các sản phẩm thải ra."
+    },
+    {
+      "id": 4,
+      "question": "Which organelle in a plant cell is responsible for photosynthesis?",
+      "question_vn": "Bộ phận nào trong tế bào thực vật chịu trách nhiệm quang hợp?",
+      "options": [
+        "Mitochondrion",
+        "Chloroplast",
+        "Endoplasmic reticulum",
+        "Nucleus"
+      ],
+      "correct_answer": 1,
+      "explanation": "Chloroplasts contain chlorophyll and are responsible for photosynthesis in plant cells.",
+      "explanation_vn": "Chloroplast chứa diệp lục và chịu trách nhiệm quang hợp trong tế bào thực vật."
+    },
+    {
+      "id": 5,
+      "question": "Which part of the plant cell is involved in protein synthesis?",
+      "question_vn": "Bộ phận nào trong tế bào thực vật tham gia vào việc tổng hợp protein?",
+      "options": [
+        "Mitochondria",
+        "Endoplasmic reticulum",
+        "Ribosomes",
+        "Lysosomes"
+      ],
+      "correct_answer": 2,
+      "explanation": "Ribosomes are responsible for protein synthesis in the cell.",
+      "explanation_vn": "Ribosome chịu trách nhiệm tổng hợp protein trong tế bào."
+    },
+    {
+      "id": 6,
+      "question": "Fill in the blank: The _______ controls the movement of substances in and out of the plant cell.",
+      "question_vn": "Điền vào chỗ trống: _______ kiểm soát sự di chuyển của các chất ra vào tế bào thực vật.",
+      "options": [
+        "Cell wall",
+        "Nucleus",
+        "Cytoplasm",
+        "Cell membrane"
+      ],
+      "correct_answer": 3,
+      "explanation": "The cell membrane regulates the movement of substances in and out of the cell.",
+      "explanation_vn": "Màng tế bào kiểm soát sự di chuyển của các chất ra vào tế bào."
+    },
+    {
+      "id": 7,
+      "question": "Why is the chloroplast important for plant cells?",
+      "question_vn": "Tại sao chloroplast lại quan trọng đối với tế bào thực vật?",
+      "options": [
+        "It helps in storing genetic material",
+        "It produces energy",
+        "It is responsible for photosynthesis",
+        "It protects the cell from damage"
+      ],
+      "correct_answer": 2,
+      "explanation": "Chloroplasts are essential for photosynthesis, converting light energy into chemical energy.",
+      "explanation_vn": "Chloroplast quan trọng đối với quang hợp, chuyển hóa năng lượng ánh sáng thành năng lượng hóa học."
+    },
+    {
+      "id": 8,
+      "question": "How does the cell wall contribute to the plant's overall structure?",
+      "question_vn": "Vách tế bào đóng góp như thế nào vào cấu trúc chung của cây?",
+      "options": [
+        "By storing nutrients",
+        "By providing support and rigidity",
+        "By producing energy",
+        "By synthesizing proteins"
+      ],
+      "correct_answer": 1,
+      "explanation": "The cell wall gives plants their rigid structure and helps them maintain their shape.",
+      "explanation_vn": "Vách tế bào cung cấp cho cây sự cứng cáp và giúp duy trì hình dáng của chúng."
+    },
+    {
+      "id": 9,
+      "question": "What is the main function of the mitochondria in plant cells?",
+      "question_vn": "Chức năng chính của mitochondria trong tế bào thực vật là gì?",
+      "options": [
+        "Photosynthesis",
+        "Protein synthesis",
+        "Energy production",
+        "Storage of water"
+      ],
+      "correct_answer": 2,
+      "explanation": "Mitochondria are responsible for producing energy in the form of ATP through cellular respiration.",
+      "explanation_vn": "Mitochondria chịu trách nhiệm sản xuất năng lượng dưới dạng ATP thông qua hô hấp tế bào."
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is true about the plant cell's vacuole?",
+      "question_vn": "Điều nào sau đây là đúng về vacuole của tế bào thực vật?",
+      "options": [
+        "It is found only in animal cells",
+        "It stores water and waste products",
+        "It is responsible for photosynthesis",
+        "It synthesizes proteins"
+      ],
+      "correct_answer": 1,
+      "explanation": "The vacuole stores water, nutrients, and waste products in plant cells.",
+      "explanation_vn": "Vacuole lưu trữ nước, chất dinh dưỡng và các sản phẩm thải trong tế bào thực vật."
+    },
+    {
+      "id": 11,
+      "question": "Which part of the cell is responsible for controlling cell activities?",
+      "question_vn": "Bộ phận nào trong tế bào chịu trách nhiệm điều khiển các hoạt động của tế bào?",
+      "options": [
+        "Mitochondria",
+        "Nucleus",
+        "Ribosomes",
+        "Vacuole"
+      ],
+      "correct_answer": 1,
+      "explanation": "The nucleus controls all activities within the cell, including growth and reproduction.",
+      "explanation_vn": "Nhân tế bào điều khiển tất cả các hoạt động trong tế bào, bao gồm cả sự phát triển và sinh sản."
+    },
+    {
+      "id": 12,
+      "question": "Why do plant cells have chloroplasts but animal cells do not?",
+      "question_vn": "Tại sao tế bào thực vật có chloroplast còn tế bào động vật thì không?",
+      "options": [
+        "Chloroplasts are essential for energy production in animals",
+        "Animal cells do not need energy from sunlight",
+        "Chloroplasts are involved in protein synthesis",
+        "Animal cells do not have cell walls"
+      ],
+      "correct_answer": 1,
+      "explanation": "Animal cells do not need to capture sunlight for energy production, so they lack chloroplasts.",
+      "explanation_vn": "Tế bào động vật không cần bắt ánh sáng mặt trời để sản xuất năng lượng, vì vậy chúng không có chloroplast."
+    },
+    {
+      "id": 13,
+      "question": "What does the term 'cytoplasm' refer to in plant cells?",
+      "question_vn": "Thuật ngữ 'cytoplasm' trong tế bào thực vật chỉ gì?",
+      "options": [
+        "The fluid inside the nucleus",
+        "The structure that controls the cell",
+        "The gel-like substance where most cell processes occur",
+        "The outer protective layer of the cell"
+      ],
+      "correct_answer": 2,
+      "explanation": "Cytoplasm is a gel-like substance in which most of the cell's activities and processes occur.",
+      "explanation_vn": "Cytoplasm là một chất giống gel, nơi hầu hết các hoạt động và quá trình của tế bào diễn ra."
+    },
+    {
