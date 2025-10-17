@@ -2,124 +2,173 @@
   "quiz": [
     {
       "id": 1,
-      "question": "What does the word 'Chat' mean?",
-      "question_vn": "Từ 'Chat' có nghĩa là gì?",
-      "correct_answer": "a casual conversation",
+      "question": "Lớp ngoài cùng của da gọi là gì?",
+      "question_vn": "Lớp ngoài cùng của da gọi là gì?",
+      "correct_answer": "Lớp biểu bì",
       "accepted_answers": [
-        "a casual conversation",
-        "talking informally",
-        "a discussion",
-        "to converse",
-        "informal talk",
-        "friendly conversation"
+        "Lớp biểu bì",
+        "Biểu bì",
+        "Lớp ngoài cùng của da"
       ],
       "hint": [
-        "a casual conversation",
-        "talking informally",
-        "a discussion",
-        "to converse",
-        "informal talk"
+        "Lớp da bảo vệ cơ thể",
+        "Lớp ngoài cùng"
       ],
-      "explanation": "'Chat' means an informal or casual conversation between people.",
-      "explanation_vn": "'Chat' có nghĩa là một cuộc trò chuyện không chính thức, thoải mái giữa mọi người."
+      "explanation": "Lớp biểu bì là lớp ngoài cùng của da, giúp bảo vệ cơ thể khỏi các tác nhân bên ngoài như vi khuẩn và hóa chất.",
+      "explanation_vn": "Lớp biểu bì là lớp ngoài cùng của da, có chức năng bảo vệ cơ thể khỏi các tác nhân bên ngoài."
     },
     {
       "id": 2,
-      "question": "What does the word 'History' mean?",
-      "question_vn": "Từ 'History' có nghĩa là gì?",
-      "correct_answer": "the study of past events",
+      "question": "Tuyến mồ hôi nằm ở lớp nào của da?",
+      "question_vn": "Tuyến mồ hôi nằm ở lớp nào của da?",
+      "correct_answer": "Lớp bì",
       "accepted_answers": [
-        "the study of past events",
-        "past events",
-        "the past",
-        "record of the past",
-        "study of the past",
-        "events from the past"
+        "Lớp bì",
+        "Lớp giữa của da",
+        "Lớp dưới biểu bì"
       ],
       "hint": [
-        "the study of past events",
-        "past events",
-        "the past",
-        "record of the past",
-        "study of the past"
+        "Nằm dưới lớp biểu bì",
+        "Có chức năng tiết mồ hôi"
       ],
-      "explanation": "'History' refers to the study of past events, particularly in human affairs, or a continuous record of past events.",
-      "explanation_vn": "'History' có nghĩa là lịch sử - nghiên cứu về các sự kiện trong quá khứ, đặc biệt là trong các vấn đề của con người."
+      "explanation": "Tuyến mồ hôi nằm chủ yếu trong lớp bì, giúp cơ thể giải nhiệt.",
+      "explanation_vn": "Tuyến mồ hôi nằm trong lớp bì, giúp cơ thể giảm nhiệt qua mồ hôi."
     },
     {
       "id": 3,
-      "question": "What does the word 'Elephant' mean?",
-      "question_vn": "Từ 'Elephant' có nghĩa là gì?",
-      "correct_answer": "a large animal with a trunk",
+      "question": "Chức năng chủ yếu của lớp mỡ dưới da là gì?",
+      "question_vn": "Chức năng chủ yếu của lớp mỡ dưới da là gì?",
+      "correct_answer": "Dự trữ năng lượng và giữ nhiệt cho cơ thể",
       "accepted_answers": [
-        "a large animal with a trunk",
-        "large animal with trunk",
-        "big animal with trunk",
-        "animal with long trunk",
-        "largest land animal",
-        "big grey animal"
+        "Dự trữ năng lượng và giữ nhiệt cho cơ thể",
+        "Dự trữ mỡ và giữ nhiệt",
+        "Bảo vệ cơ thể khỏi lạnh"
       ],
       "hint": [
-        "a large animal with a trunk",
-        "large animal with trunk",
-        "biggest land animal",
-        "animal with long trunk",
-        "grey animal with big ears"
+        "Giữ nhiệt cơ thể",
+        "Lớp mỡ dưới da"
       ],
-      "explanation": "'Elephant' is a very large mammal with a long trunk, large ears, and ivory tusks. It is the largest living land animal.",
-      "explanation_vn": "'Elephant' có nghĩa là con voi - động vật có vú rất lớn với vòi dài, tai to và ngà voi. Đây là động vật trên cạn lớn nhất còn sống."
+      "explanation": "Lớp mỡ dưới da giúp dự trữ năng lượng và giữ nhiệt cho cơ thể.",
+      "explanation_vn": "Lớp mỡ dưới da giúp cơ thể giữ nhiệt và dự trữ năng lượng."
     },
     {
       "id": 4,
-      "question": "What does the word 'Happy' mean?",
-      "question_vn": "Từ 'Happy' có nghĩa là gì?",
-      "correct_answer": "feeling pleased or joyful",
+      "question": "Khi bị kim châm nhẹ, ta cảm thấy đau là nhờ?",
+      "question_vn": "Khi bị kim châm nhẹ, ta cảm thấy đau là nhờ?",
+      "correct_answer": "Các đầu dây thần kinh cảm giác ở da",
       "accepted_answers": [
-        "feeling pleased or joyful",
-        "feeling joy",
-        "feeling pleased",
-        "joyful",
-        "pleased",
-        "feeling good",
-        "glad",
-        "content",
-        "cheerful"
+        "Dây thần kinh cảm giác",
+        "Các đầu dây thần kinh cảm giác",
+        "Dây thần kinh dưới da"
       ],
       "hint": [
-        "feeling pleased or joyful",
-        "feeling joy",
-        "joyful",
-        "pleased",
-        "glad",
-        "cheerful"
+        "Nhận cảm giác đau",
+        "Liên quan đến cảm giác đau"
       ],
-      "explanation": "'Happy' means feeling or showing pleasure, contentment, or joy. It describes a positive emotional state.",
-      "explanation_vn": "'Happy' có nghĩa là vui vẻ, hạnh phúc - cảm thấy hoặc thể hiện sự hài lòng, vui mừng. Nó mô tả trạng thái cảm xúc tích cực."
+      "explanation": "Các đầu dây thần kinh cảm giác ở da truyền tín hiệu đau lên não khi có tác động từ bên ngoài.",
+      "explanation_vn": "Các đầu dây thần kinh cảm giác ở da giúp cảm nhận và truyền tín hiệu đau lên não."
     },
     {
       "id": 5,
-      "question": "What does the word 'Hotel' mean?",
-      "question_vn": "Từ 'Hotel' có nghĩa là gì?",
-      "correct_answer": "a place for travelers to stay",
+      "question": "Tuyến nhờn có vai trò chính là gì?",
+      "question_vn": "Tuyến nhờn có vai trò chính là gì?",
+      "correct_answer": "Tiết chất nhờn giúp da mềm và chống thấm nước",
       "accepted_answers": [
-        "a place for travelers to stay",
-        "place to stay",
-        "accommodation for travelers",
-        "building for lodging",
-        "place providing rooms",
-        "lodging establishment",
-        "guest house",
-        "place for overnight stay"
+        "Tiết chất nhờn giúp da mềm và chống thấm nước",
+        "Giữ ẩm cho da",
+        "Bảo vệ da khỏi khô"
       ],
       "hint": [
-        "a place for travelers to stay",
-        "place to stay",
-        "accommodation for travelers",
-        "building for lodging",
-        "place providing rooms"
+        "Giữ da mềm",
+        "Chống thấm nước"
       ],
-      "explanation": "'Hotel' is an establishment providing accommodation, meals, and other services for travelers and tourists, typically on a short-term basis.",
-      "explanation_vn": "'Hotel' có nghĩa là khách sạn - cơ sở cung cấp chỗ ở, bữa ăn và các dịch vụ khác cho khách du lịch, thường là trong thời gian ngắn."
+      "explanation": "Tuyến nhờn giúp tiết ra chất nhờn bảo vệ da khỏi khô và ngăn ngừa sự thấm nước.",
+      "explanation_vn": "Tuyến nhờn tiết chất nhờn giúp làm mềm da và ngăn ngừa sự mất nước của da."
+    },
+    {
+      "id": 6,
+      "question": "Khi trời nóng, tuyến mồ hôi hoạt động mạnh có tác dụng gì?",
+      "question_vn": "Khi trời nóng, tuyến mồ hôi hoạt động mạnh có tác dụng gì?",
+      "correct_answer": "Hạ nhiệt cho cơ thể",
+      "accepted_answers": [
+        "Hạ nhiệt cho cơ thể",
+        "Giảm nhiệt độ cơ thể",
+        "Làm mát cơ thể"
+      ],
+      "hint": [
+        "Giải nhiệt",
+        "Giảm thân nhiệt"
+      ],
+      "explanation": "Tuyến mồ hôi giúp cơ thể giảm nhiệt độ bằng cách tiết ra mồ hôi, từ đó làm mát cơ thể.",
+      "explanation_vn": "Khi trời nóng, tuyến mồ hôi giúp cơ thể giảm nhiệt độ và làm mát cơ thể."
+    },
+    {
+      "id": 7,
+      "question": "Khi trời lạnh, các mạch máu ở da sẽ thay đổi như thế nào?",
+      "question_vn": "Khi trời lạnh, các mạch máu ở da sẽ thay đổi như thế nào?",
+      "correct_answer": "Co lại",
+      "accepted_answers": [
+        "Co lại",
+        "Giảm kích thước",
+        "Thu nhỏ lại"
+      ],
+      "hint": [
+        "Giảm mất nhiệt",
+        "Giữ lại nhiệt"
+      ],
+      "explanation": "Khi trời lạnh, các mạch máu co lại để giảm mất nhiệt qua da.",
+      "explanation_vn": "Khi trời lạnh, các mạch máu sẽ co lại để giảm mất nhiệt qua da."
+    },
+    {
+      "id": 8,
+      "question": "Hiện tượng “nổi da gà” khi trời lạnh giúp cơ thể làm gì?",
+      "question_vn": "Hiện tượng “nổi da gà” khi trời lạnh giúp cơ thể làm gì?",
+      "correct_answer": "Giữ lại lớp không khí làm giảm thoát nhiệt",
+      "accepted_answers": [
+        "Giữ lại lớp không khí làm giảm thoát nhiệt",
+        "Giữ ấm cơ thể",
+        "Giảm mất nhiệt"
+      ],
+      "hint": [
+        "Giữ nhiệt cơ thể",
+        "Hiện tượng da gà"
+      ],
+      "explanation": "Hiện tượng nổi da gà giúp giữ lại một lớp không khí nhỏ giữa da và môi trường bên ngoài, giảm mất nhiệt.",
+      "explanation_vn": "Hiện tượng nổi da gà giúp giữ lại lớp không khí giữa da và môi trường, giảm mất nhiệt."
+    },
+    {
+      "id": 9,
+      "question": "Tại sao khi chạy thể dục ta thường ra nhiều mồ hôi?",
+      "question_vn": "Tại sao khi chạy thể dục ta thường ra nhiều mồ hôi?",
+      "correct_answer": "Do cơ thể tăng sinh nhiệt, cần thoát bớt nhiệt qua mồ hôi",
+      "accepted_answers": [
+        "Do cơ thể tăng sinh nhiệt, cần thoát bớt nhiệt qua mồ hôi",
+        "Do cơ thể nóng lên và cần giải phóng nhiệt",
+        "Cơ thể cần hạ nhiệt qua mồ hôi"
+      ],
+      "hint": [
+        "Tăng nhiệt cơ thể",
+        "Giải phóng nhiệt"
+      ],
+      "explanation": "Khi chạy thể dục, cơ thể tạo ra nhiều nhiệt và mồ hôi giúp giảm nhiệt độ cơ thể.",
+      "explanation_vn": "Khi chạy thể dục, cơ thể tạo ra nhiều nhiệt và mồ hôi giúp làm mát cơ thể."
+    },
+    {
+      "id": 10,
+      "question": "Khi trời lạnh, việc mặc nhiều lớp áo giúp cơ thể làm gì?",
+      "question_vn": "Khi trời lạnh, việc mặc nhiều lớp áo giúp cơ thể làm gì?",
+      "correct_answer": "Ngăn không cho nhiệt cơ thể thoát ra ngoài",
+      "accepted_answers": [
+        "Ngăn không cho nhiệt cơ thể thoát ra ngoài",
+        "Giữ ấm cho cơ thể",
+        "Chống mất nhiệt"
+      ],
+      "hint": [
+        "Giữ nhiệt cơ thể",
+        "Mặc nhiều lớp áo"
+      ],
+      "explanation": "Mặc nhiều lớp áo giúp giữ nhiệt cơ thể không bị thoát ra ngoài, giữ cơ thể ấm áp.",
+      "explanation_vn": "Mặc nhiều lớp áo giúp ngăn không cho nhiệt cơ thể thoát ra ngoài và giữ ấm cơ thể."
     }
   ]
 }
