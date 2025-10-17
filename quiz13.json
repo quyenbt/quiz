@@ -1,0 +1,144 @@
+{
+  "quizzes": [
+    {
+      "id": 1,
+      "question": "What is the outermost layer of the skin called?",
+      "question_vn": "Lớp ngoài cùng của da gọi là gì?",
+      "options": [
+        "Epidermis",
+        "Dermis",
+        "Subcutaneous layer",
+        "Stratum corneum"
+      ],
+      "correct_answer": 0,
+      "explanation": "The outermost layer of the skin is called the epidermis. It provides a protective barrier against environmental factors.",
+      "explanation_vn": "Lớp ngoài cùng của da gọi là biểu bì (epidermis). Nó tạo thành một hàng rào bảo vệ cơ thể khỏi các yếu tố bên ngoài."
+    },
+    {
+      "id": 2,
+      "question": "In which layer of the skin are sweat glands located?",
+      "question_vn": "Tuyến mồ hôi nằm ở lớp nào của da?",
+      "options": [
+        "Epidermis",
+        "Dermis",
+        "Stratum corneum",
+        "Subcutaneous layer"
+      ],
+      "correct_answer": 1,
+      "explanation": "Sweat glands are located in the dermis layer, which is responsible for regulating body temperature.",
+      "explanation_vn": "Tuyến mồ hôi nằm ở lớp bì (dermis), lớp này chịu trách nhiệm điều hòa nhiệt độ cơ thể."
+    },
+    {
+      "id": 3,
+      "question": "What is the primary function of the subcutaneous layer?",
+      "question_vn": "Chức năng chủ yếu của lớp mỡ dưới da là:",
+      "options": [
+        "Secreting sweat",
+        "Protecting the body from mechanical impact",
+        "Storing energy and maintaining body temperature",
+        "Sensing heat and cold"
+      ],
+      "correct_answer": 2,
+      "explanation": "The subcutaneous layer stores energy in the form of fat and helps maintain body temperature by providing insulation.",
+      "explanation_vn": "Lớp mỡ dưới da dự trữ năng lượng dưới dạng mỡ và giúp duy trì nhiệt độ cơ thể bằng cách tạo lớp cách nhiệt."
+    },
+    {
+      "id": 4,
+      "question": "When pricked with a needle, why do we feel pain?",
+      "question_vn": "Khi bị kim châm nhẹ, ta cảm thấy đau là nhờ:",
+      "options": [
+        "Sebaceous glands",
+        "Arrector pili muscles",
+        "Sweat glands",
+        "Sensory nerve endings in the skin"
+      ],
+      "correct_answer": 3,
+      "explanation": "Pain is detected by sensory nerve endings in the skin, which transmit pain signals to the brain.",
+      "explanation_vn": "Cảm giác đau được phát hiện bởi các đầu dây thần kinh cảm giác ở da, chúng truyền tín hiệu đau đến não."
+    },
+    {
+      "id": 5,
+      "question": "What is the primary function of sebaceous glands?",
+      "question_vn": "Tuyến nhờn có vai trò chính là:",
+      "options": [
+        "Secreting oil to keep the skin soft and waterproof",
+        "Making the skin dry and fresh",
+        "Reducing body temperature",
+        "Making the skin whiter"
+      ],
+      "correct_answer": 0,
+      "explanation": "Sebaceous glands secrete oil (sebum) that helps keep the skin soft, moisturized, and waterproof.",
+      "explanation_vn": "Tuyến nhờn tiết dầu (sebum) giúp da mềm mại, dưỡng ẩm và chống thấm nước."
+    },
+    {
+      "id": 6,
+      "question": "When it is hot, sweat glands work to:",
+      "question_vn": "Khi trời nóng, tuyến mồ hôi hoạt động mạnh có tác dụng:",
+      "options": [
+        "Make the skin darker",
+        "Cool the body down",
+        "Increase heart rate",
+        "Retain body heat"
+      ],
+      "correct_answer": 1,
+      "explanation": "Sweat glands help cool the body down by releasing sweat, which evaporates and removes heat.",
+      "explanation_vn": "Tuyến mồ hôi giúp làm mát cơ thể bằng cách tiết mồ hôi, khi mồ hôi bay hơi sẽ làm giảm nhiệt."
+    },
+    {
+      "id": 7,
+      "question": "What happens to the blood vessels in the skin when it's cold?",
+      "question_vn": "Khi trời lạnh, các mạch máu ở da sẽ:",
+      "options": [
+        "Dilate",
+        "Stay the same",
+        "Constrict",
+        "Dilate partially, constrict partially"
+      ],
+      "correct_answer": 2,
+      "explanation": "In cold weather, blood vessels constrict to minimize heat loss and help keep the body warm.",
+      "explanation_vn": "Khi trời lạnh, các mạch máu co lại để giảm mất nhiệt và giữ ấm cơ thể."
+    },
+    {
+      "id": 8,
+      "question": "What is the purpose of the 'goosebumps' phenomenon when it's cold?",
+      "question_vn": "Hiện tượng 'nổi da gà' khi trời lạnh giúp cơ thể:",
+      "options": [
+        "Beautify the skin",
+        "Lose heat faster",
+        "Increase the ability to sense temperature",
+        "Retain a layer of air to reduce heat loss"
+      ],
+      "correct_answer": 3,
+      "explanation": "Goosebumps help trap a layer of air beneath the skin, providing insulation and reducing heat loss.",
+      "explanation_vn": "Hiện tượng nổi da gà giúp giữ lại một lớp không khí dưới da, tạo lớp cách nhiệt và giảm mất nhiệt."
+    },
+    {
+      "id": 9,
+      "question": "Why do we sweat a lot when exercising?",
+      "question_vn": "Tại sao khi chạy thể dục ta thường ra nhiều mồ hôi?",
+      "options": [
+        "Because the skin is weak",
+        "Because sebaceous glands secrete more",
+        "Because the body produces heat and needs to release excess heat through sweat",
+        "Because the blood vessels expand"
+      ],
+      "correct_answer": 2,
+      "explanation": "When we exercise, our bodies generate heat, and sweating helps cool us down by releasing moisture.",
+      "explanation_vn": "Khi tập thể dục, cơ thể sản sinh nhiệt và đổ mồ hôi giúp làm mát cơ thể bằng cách giải phóng hơi nước."
+    },
+    {
+      "id": 10,
+      "question": "What does wearing multiple layers of clothes in cold weather help with?",
+      "question_vn": "Khi trời lạnh, việc mặc nhiều lớp áo giúp:",
+      "options": [
+        "Reduce sweating",
+        "Increase sweat gland activity",
+        "Dilate blood vessels",
+        "Prevent body heat from escaping"
+      ],
+      "correct_answer": 3,
+      "explanation": "Wearing multiple layers of clothing helps trap heat and prevents body heat from escaping into the environment.",
+      "explanation_vn": "Mặc nhiều lớp áo giúp giữ nhiệt cơ thể và ngăn nhiệt thoát ra ngoài môi trường."
+    }
+  ]
+}
