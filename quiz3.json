@@ -1,85 +1,144 @@
 {
   "quizzes": [
-  {
-    "id": 1,
-    "question": "What does the word 'colourful' mean?",
-    "question_vn": "Từ 'colourful' có nghĩa là gì?",
-    "options": ["Full of colors", "Very quiet", "Made of metal", "Covered in dust"],
-    "correct_answer": 0,
-    "explanation": "'Colourful' means having many different colors.",
-    "explanation_vn": "'Colourful' có nghĩa là có nhiều màu sắc khác nhau."
-  },
-  {
-    "id": 2,
-    "question": "What does the word 'peaceful' mean?",
-    "question_vn": "Từ 'peaceful' có nghĩa là gì?",
-    "options": ["Very noisy", "Without violence or noise", "Exciting and fast", "Crowded with people"],
-    "correct_answer": 1,
-    "explanation": "'Peaceful' describes a calm and quiet situation without conflict.",
-    "explanation_vn": "'Peaceful' mô tả một tình huống yên bình, không có xung đột hay ồn ào."
-  },
-  {
-    "id": 3,
-    "question": "What is a 'ger'?",
-    "question_vn": "'Ger' là gì?",
-    "options": ["A traditional Mongolian tent", "A type of boat", "A farm machine", "A wild animal"],
-    "correct_answer": 0,
-    "explanation": "A 'ger' is a portable round tent used by nomads in Mongolia.",
-    "explanation_vn": "'Ger' là một loại lều tròn di động được người du mục ở Mông Cổ sử dụng."
-  },
-  {
-    "id": 4,
-    "question": "What does 'pasture' mean?",
-    "question_vn": "Từ 'pasture' có nghĩa là gì?",
-    "options": ["A mountain", "A grassy area where animals graze", "A river", "A type of house"],
-    "correct_answer": 1,
-    "explanation": "'Pasture' is land covered with grass used for animals to feed on.",
-    "explanation_vn": "'Pasture' là vùng đất có cỏ nơi động vật được chăn thả."
-  },
-  {
-    "id": 5,
-    "question": "What are 'cattle'?",
-    "question_vn": "'Cattle' là gì?",
-    "options": ["A type of bird", "Farm animals like cows and bulls", "Fishing equipment", "A kind of tree"],
-    "correct_answer": 1,
-    "explanation": "'Cattle' are large farm animals such as cows and bulls.",
-    "explanation_vn": "'Cattle' là những động vật nuôi lớn như bò cái và bò đực."
-  },
-  {
-    "id": 6,
-    "question": "What is 'rice'?",
-    "question_vn": "'Rice' là gì?",
-    "options": ["A kind of meat", "A leafy vegetable", "A cereal grain eaten by many people", "A spicy sauce"],
-    "correct_answer": 2,
-    "explanation": "'Rice' is a grain that is a staple food for many people around the world.",
-    "explanation_vn": "'Rice' là một loại ngũ cốc là thực phẩm chính của nhiều người trên thế giới."
-  },
-  {
-    "id": 7,
-    "question": "What are 'horses'?",
-    "question_vn": "'Horses' là gì?",
-    "options": ["Flying animals", "Large animals used for riding or work", "Types of insects", "Small birds"],
-    "correct_answer": 1,
-    "explanation": "'Horses' are large animals that people ride or use to carry things.",
-    "explanation_vn": "'Horses' là động vật lớn mà con người cưỡi hoặc dùng để chở đồ."
-  },
-  {
-    "id": 8,
-    "question": "What are 'paddy fields'?",
-    "question_vn": "'Paddy fields' là gì?",
-    "options": ["Desert lands", "Water-covered fields for growing rice", "High mountain paths", "Cattle barns"],
-    "correct_answer": 1,
-    "explanation": "'Paddy fields' are flooded fields where rice is grown.",
-    "explanation_vn": "'Paddy fields' là những cánh đồng ngập nước dùng để trồng lúa."
-  },
-  {
-    "id": 9,
-    "question": "What does 'harvest time' mean?",
-    "question_vn": "Từ 'harvest time' có nghĩa là gì?",
-    "options": ["Time to plant seeds", "Time when crops are gathered", "Time to feed animals", "Time to rest"],
-    "correct_answer": 1,
-    "explanation": "'Harvest time' is the period when crops are collected from the fields.",
-    "explanation_vn": "'Harvest time' là thời gian thu hoạch cây trồng từ đồng ruộng."
-  }
-]
+    {
+      "id": 1,
+      "question": "Lớp ngoài cùng của da gọi là gì?",
+      "question_vn": "Lớp ngoài cùng của da gọi là gì?",
+      "options": [
+        "Lớp biểu bì",
+        "Lớp bì",
+        "Lớp mỡ dưới da",
+        "Lớp sừng"
+      ],
+      "correct_answer": 0,
+      "explanation": "Lớp ngoài cùng của da gọi là lớp biểu bì. Nó tạo thành hàng rào bảo vệ cơ thể khỏi các yếu tố bên ngoài như vi khuẩn và tác động cơ học.",
+      "explanation_vn": "Lớp ngoài cùng của da gọi là lớp biểu bì (epidermis). Nó giúp bảo vệ cơ thể khỏi các tác nhân bên ngoài."
+    },
+    {
+      "id": 2,
+      "question": "Tuyến mồ hôi nằm ở lớp nào của da?",
+      "question_vn": "Tuyến mồ hôi nằm ở lớp nào của da?",
+      "options": [
+        "Lớp biểu bì",
+        "Lớp bì",
+        "Lớp sừng",
+        "Lớp mỡ dưới da"
+      ],
+      "correct_answer": 1,
+      "explanation": "Tuyến mồ hôi nằm trong lớp bì (dermis), chịu trách nhiệm điều hòa nhiệt độ cơ thể thông qua việc tiết mồ hôi.",
+      "explanation_vn": "Tuyến mồ hôi nằm ở lớp bì (dermis), giúp điều hòa nhiệt độ cơ thể bằng cách tiết mồ hôi."
+    },
+    {
+      "id": 3,
+      "question": "Chức năng chủ yếu của lớp mỡ dưới da là:",
+      "question_vn": "Chức năng chủ yếu của lớp mỡ dưới da là:",
+      "options": [
+        "Tiết mồ hôi",
+        "Bảo vệ cơ thể khỏi tác động cơ học",
+        "Dự trữ năng lượng và giữ nhiệt cho cơ thể",
+        "Cảm nhận nóng, lạnh"
+      ],
+      "correct_answer": 2,
+      "explanation": "Lớp mỡ dưới da chủ yếu có chức năng dự trữ năng lượng và giữ ấm cho cơ thể, giúp bảo vệ cơ thể khỏi mất nhiệt.",
+      "explanation_vn": "Lớp mỡ dưới da chủ yếu có chức năng dự trữ năng lượng dưới dạng mỡ và giúp giữ ấm cho cơ thể."
+    },
+    {
+      "id": 4,
+      "question": "Khi bị kim châm nhẹ, ta cảm thấy đau là nhờ:",
+      "question_vn": "Khi bị kim châm nhẹ, ta cảm thấy đau là nhờ:",
+      "options": [
+        "Tuyến nhờn",
+        "Các cơ co chân lông",
+        "Tuyến mồ hôi",
+        "Các đầu dây thần kinh cảm giác ở da"
+      ],
+      "correct_answer": 3,
+      "explanation": "Cảm giác đau được phát hiện bởi các đầu dây thần kinh cảm giác ở da, chúng truyền tín hiệu đau lên não.",
+      "explanation_vn": "Khi bị kim châm nhẹ, cảm giác đau được phát hiện bởi các đầu dây thần kinh cảm giác ở da, gửi tín hiệu lên não."
+    },
+    {
+      "id": 5,
+      "question": "Tuyến nhờn có vai trò chính là:",
+      "question_vn": "Tuyến nhờn có vai trò chính là:",
+      "options": [
+        "Tiết chất nhờn giúp da mềm và chống thấm nước",
+        "Làm da khô thoáng",
+        "Giảm thân nhiệt",
+        "Làm da trắng hơn"
+      ],
+      "correct_answer": 0,
+      "explanation": "Tuyến nhờn tiết chất nhờn (sebum) giúp da mềm mại, dưỡng ẩm và bảo vệ da khỏi mất nước và vi khuẩn.",
+      "explanation_vn": "Tuyến nhờn tiết chất nhờn giúp da mềm mại, dưỡng ẩm và bảo vệ da khỏi tác động của môi trường."
+    },
+    {
+      "id": 6,
+      "question": "Khi trời nóng, tuyến mồ hôi hoạt động mạnh có tác dụng:",
+      "question_vn": "Khi trời nóng, tuyến mồ hôi hoạt động mạnh có tác dụng:",
+      "options": [
+        "Làm da sạm hơn",
+        "Hạ nhiệt cho cơ thể",
+        "Tăng nhịp tim",
+        "Giữ nhiệt cho cơ thể"
+      ],
+      "correct_answer": 1,
+      "explanation": "Tuyến mồ hôi giúp hạ nhiệt cơ thể bằng cách tiết mồ hôi, mồ hôi bay hơi sẽ làm giảm nhiệt lượng trong cơ thể.",
+      "explanation_vn": "Khi trời nóng, tuyến mồ hôi hoạt động mạnh giúp làm mát cơ thể bằng cách tiết mồ hôi và làm giảm nhiệt."
+    },
+    {
+      "id": 7,
+      "question": "Khi trời lạnh, các mạch máu ở da sẽ:",
+      "question_vn": "Khi trời lạnh, các mạch máu ở da sẽ:",
+      "options": [
+        "Giãn ra",
+        "Không thay đổi",
+        "Co lại",
+        "Giãn một phần, co một phần"
+      ],
+      "correct_answer": 2,
+      "explanation": "Khi trời lạnh, các mạch máu sẽ co lại để giảm mất nhiệt và giữ nhiệt độ cơ thể ổn định.",
+      "explanation_vn": "Trong thời tiết lạnh, các mạch máu sẽ co lại để giảm mất nhiệt và bảo vệ cơ thể khỏi bị lạnh."
+    },
+    {
+      "id": 8,
+      "question": "Hiện tượng 'nổi da gà' khi trời lạnh giúp cơ thể:",
+      "question_vn": "Hiện tượng 'nổi da gà' khi trời lạnh giúp cơ thể:",
+      "options": [
+        "Làm đẹp da",
+        "Thoát nhiệt nhanh hơn",
+        "Tăng khả năng cảm nhận nhiệt",
+        "Giữ lại lớp không khí làm giảm thoát nhiệt"
+      ],
+      "correct_answer": 3,
+      "explanation": "Hiện tượng nổi da gà giúp giữ lại một lớp không khí ấm dưới da, giảm thiểu mất nhiệt và giữ cơ thể ấm hơn.",
+      "explanation_vn": "Hiện tượng nổi da gà khi trời lạnh giúp giữ lại lớp không khí ấm dưới da, giúp giảm mất nhiệt."
+    },
+    {
+      "id": 9,
+      "question": "Tại sao khi chạy thể dục ta thường ra nhiều mồ hôi?",
+      "question_vn": "Tại sao khi chạy thể dục ta thường ra nhiều mồ hôi?",
+      "options": [
+        "Do da yếu",
+        "Do tuyến nhờn tiết nhiều",
+        "Do cơ thể tăng sinh nhiệt, cần thoát bớt nhiệt qua mồ hôi",
+        "Do mạch máu bị giãn ra"
+      ],
+      "correct_answer": 2,
+      "explanation": "Khi cơ thể vận động, nhiệt độ cơ thể tăng lên và mồ hôi được tiết ra để giúp cơ thể thoát nhiệt và làm mát.",
+      "explanation_vn": "Khi chạy thể dục, cơ thể sinh ra nhiều nhiệt và mồ hôi được tiết ra để giảm nhiệt độ cơ thể."
+    },
+    {
+      "id": 10,
+      "question": "Khi trời lạnh, việc mặc nhiều lớp áo giúp:",
+      "question_vn": "Khi trời lạnh, việc mặc nhiều lớp áo giúp:",
+      "options": [
+        "Giảm tiết mồ hôi",
+        "Tăng hoạt động tuyến mồ hôi",
+        "Làm mạch máu giãn ra",
+        "Ngăn không cho nhiệt cơ thể thoát ra ngoài"
+      ],
+      "correct_answer": 3,
+      "explanation": "Mặc nhiều lớp áo giúp giữ nhiệt cơ thể, ngăn không cho nhiệt thoát ra ngoài, giữ ấm cho cơ thể.",
+      "explanation_vn": "Khi trời lạnh, mặc nhiều lớp áo giúp giữ nhiệt cơ thể và ngăn không cho nhiệt thoát ra ngoài."
+    }
+  ]
 }
